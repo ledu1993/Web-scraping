@@ -1,7 +1,7 @@
-# Web-scraping UK Phone Tariffs
+# Web Scraping UK Phone Tariffs
 
-## Aim
-To compare UK mobile phone tariffs (pay monthly contract) across key network providers for a 1GB per month plan.
+## Motivation
+Pull key information from the websites of UK network providers to compare their tariffs (pay monthly contract) for a 1GB per month data plan.
 
-## Library
-Python BeautifulSoup 4
+## Method
+Scraping and parsing with BeautifulSoup.
