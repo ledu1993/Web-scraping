@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		F607212721EEC18400B64257 /* scraping_price.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = scraping_price.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		F607211C21EEC06500B64257 = {
 			isa = PBXGroup;
 			children = (
+				F607212721EEC18400B64257 /* scraping_price.py */,
 			);
 			sourceTree = "<group>";
 		};
